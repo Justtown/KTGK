@@ -1,0 +1,60 @@
+body {
+    background-color: green;
+}
+.huhu {
+    position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    background-color: white;
+    height: 650px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.col {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 5%;
+    width: 18%;
+    height: 750px;
+    background-color: aquamarine;
+}
+.head {
+    text-align: end;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.person {
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 600px;
+}
+.a1 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a2 {
+    margin-top: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a4 {
+    height: 1px;
+    border-width: 0;
+    color: aquamarine;
+    background-color: aquamarine;
+}
+.a5 {
+    text-align: end;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
+.a3 > a5 {
+    text-align: start;
+    margin-top: 5%;
+    border: none;
+    outline: none;
+}
+.a6 {
+    text-align: center;
+    margin-top: 80%;
+}
